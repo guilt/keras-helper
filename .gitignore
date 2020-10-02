@@ -1,0 +1,11 @@
+.DS_Store
+*.db
+*.pyc
+*.h5
+*.csv
+*.egg-info
+__pycache__
+build
+dist
+.idea
+.vscode
