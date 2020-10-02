@@ -4,6 +4,14 @@ This is a library meant to help get an optimized version of
 Keras and other useful libraries without worrying about what
 is the underlying implementation (PlaidML, Tensorflow etc.)
 
+## Installation
+
+```bash
+pip install keras-helper
+```
+
+and then install your other Keras packages as necessary.
+
 ## Usage
 
 ```python
